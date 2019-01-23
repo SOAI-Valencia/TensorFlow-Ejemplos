@@ -29,7 +29,7 @@ Label | Class
 
 ## Archivos
 En esta guia se pueden encontrar 3 ejemplos hechos con jupyter notebook:
-- [Fashion MNIST Simple](FashionMNISTSimple.ipynb) Modelo basico con un layer. [link colab](https://colab.research.google.com/github/SOAI-Valencia/TensorFlow-Ejemplos/blob/master/Fashion%20MNIST/.ipynb_checkpoints/Fashion%20MNIST%20Simplificado-checkpoint.ipynb)
+- [Fashion MNIST Basico](FashionMNISTBasico.ipynb) Modelo basico con un layer. [link colab](https://colab.research.google.com/github/SOAI-Valencia/TensorFlow-Ejemplos/blob/master/FashionMNISTBasico.ipynb)
 - [Fashion MNIST](FashionMNIST.ipynb) Ejemplo visto en la charla para el modelo con visualizaciones. [link colab](https://colab.research.google.com/github/SOAI-Valencia/TensorFlow-Ejemplos/blob/master/FashionMNIST.ipynb)
 - [Fashion MNIST Keras](FashionMNISTKeras.ipynb) Modelo hecho con TF Keras. [link colab](https://colab.research.google.com/github/SOAI-Valencia/TensorFlow-Ejemplos/blob/master/FashionMNISTKeras.ipynb)
 
